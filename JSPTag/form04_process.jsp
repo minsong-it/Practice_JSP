@@ -24,12 +24,12 @@
 		String comment = request.getParameter("comment");
 	%>
 	
-	<p> ¾ÆÀÌµð : <%= id %>
-	<p> ºñ¹Ð¹øÈ£ : <%= passwd %>
-	<p> ÀÌ¸§ : <%= name %>
-	<p> ¿¬¶ôÃ³ : <%= phone1 %>-<%= phone2 %>-<%= phone3 %>
-	<p> ¼ºº° : <%= sex %>
-	<p> Ãë¹Ì : <%
+	<p> ì•„ì´ë”” : <%= id %>
+	<p> ë¹„ë°€ë²ˆí˜¸ : <%= passwd %>
+	<p> ì´ë¦„ : <%= name %>
+	<p> ì—°ë½ì²˜ : <%= phone1 %>-<%= phone2 %>-<%= phone3 %>
+	<p> ì„±ë³„ : <%= sex %>
+	<p> ì·¨ë¯¸ : <%
 				if (hobby != null) {
 					for(int i = 0; i < hobby.length; i++){
 						out.println(" "+hobby[i]);
@@ -39,7 +39,7 @@
 	<%--
 	<%= hobby1 %> <%= hobby2 %> <%= hobby3 %>
 	 --%>
-	<p> °¡ÀÔÀÎ»ç : <%= comment %>
+	<p> ê°€ìž…ì¸ì‚¬ : <%= comment %>
 
 </body>
 </html>
