@@ -9,10 +9,10 @@
 <body>
 	<form name="fileForm" method="post" enctype="multipart/form-data"
 	action="fileupload01_process.jsp">
-		<p> ÀÌ ¸§ : <input type="text" name="name">
-		<p> Á¦ ¸ñ : <input type="text" name="subject">
-		<p> ÆÄ ÀÏ : <input type="file" name="filename">
-		<p> <input type="submit" name="ÆÄÀÏ ¿Ã¸®±â">
+		<p> ì´ ë¦„ : <input type="text" name="name">
+		<p> ì œ ëª© : <input type="text" name="subject">
+		<p> íŒŒ ì¼ : <input type="file" name="filename">
+		<p> <input type="submit" name="íŒŒì¼ ì˜¬ë¦¬ê¸°">
 	</form>
 </body>
 </html>
