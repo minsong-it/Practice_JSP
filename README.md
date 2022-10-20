@@ -31,8 +31,8 @@
     <li> ImplicitObject
       
   <br>
-      <strong>:three: 결과물 </strong>
-      
-
-  
-</div>
+      <strong>:three: 결과물 </strong><br>
+      <h3> 회원가입 기능 구현<br>
+      <img width='50%' src='https://user-images.githubusercontent.com/113004260/196883040-643a7b69-48e5-4dce-9870-118e9622f581.PNG'> <br>
+      <img width="50%" src="https://user-images.githubusercontent.com/113004260/196883590-10846a05-8c0c-46d4-b085-cb66e489da64.PNG"> <br>
+      <br>
