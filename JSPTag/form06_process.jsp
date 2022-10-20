@@ -10,8 +10,8 @@
 <body>
 	<table border="1">
 		<tr>
-			<th>ΏδΓ» ΖΔ¶σΉΜΕΝ ΐΜΈ§</th>
-			<th>ΏδΓ» ΖΔ¶σΉΜΕΝ °ª </th>
+			<th>μ”μ²­ νλΌλ―Έν„° μ΄λ¦„</th>
+			<th>μ”μ²­ νλΌλ―Έν„° κ°’ </th>
 		</tr>
 		<%
 			request.setCharacterEncoding("EUC_KR");
