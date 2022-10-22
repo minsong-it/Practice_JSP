@@ -7,7 +7,7 @@
 <title>Action Tag</title>
 </head>
 <body>
-	<h2>forward �׼� �±�</h2>
+	<h2>forward ¾×¼Ç ÅÂ±×</h2>
 	<jsp:forward page="forward_date.jsp"/>
 	<p>---------------------
 </body>
