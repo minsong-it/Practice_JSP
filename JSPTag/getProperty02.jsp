@@ -9,8 +9,8 @@
 <body>
 	<jsp:useBean id="person" class="com.dao.Person" scope="request" />
 	<jsp:setProperty property="id" name="person" value="20182005"/>
-	<jsp:setProperty property="name" name="person" value="ȫ�浿"/>
-	<p> ���̵� : <jsp:getProperty property="id" name="person"/>
-	<p> �� �� : <jsp:getProperty property="name" name="person"/>
+	<jsp:setProperty property="name" name="person" value="È«±æµ¿"/>
+	<p> ¾ÆÀÌµð : <jsp:getProperty property="id" name="person"/>
+	<p> ÀÌ ¸§ : <jsp:getProperty property="name" name="person"/>
 </body>
 </html>
