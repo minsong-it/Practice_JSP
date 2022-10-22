@@ -8,8 +8,8 @@
 </head>
 <body>
 	<jsp:useBean id="person" class="com.dao.Person" scope="request" />
-	<p> ¾ÆÀÌµð : <jsp:getProperty name="person" property="id" />
-	<p> ÀÌ ¸§ : <jsp:getProperty property="name" name="person"/>
+	<p> Â¾Ã†Ã€ÃŒÂµÃ° : <jsp:getProperty name="person" property="id" />
+	<p> Ã€ÃŒ Â¸Â§ : <jsp:getProperty property="name" name="person"/>
 	
 </body>
 </html>
