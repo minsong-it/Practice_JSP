@@ -7,7 +7,7 @@
 <title>Action Tag</title>
 </head>
 <body>
-	<p>¿À´ÃÀÇ ³¯Â¥ ¹× ½Ã°¢ </p>
+	<p>Â¿Ã€Â´ÃƒÃ€Ã‡ Â³Â¯Ã‚Â¥ Â¹Ã— Â½ÃƒÂ°Â¢ </p>
 	<p><%=(new java.util.Date()).toLocaleString()%>
 </body>
 </html>
