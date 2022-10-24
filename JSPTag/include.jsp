@@ -11,3 +11,4 @@
 	<jsp:include page="include_date.jsp" flush="true" />
 </body>
 </html>
+ 
