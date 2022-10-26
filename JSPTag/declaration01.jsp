@@ -10,7 +10,7 @@
 	<%! int data = 50; %>
 	
 	<%
-	out.println("Value of the variable is: " + data);
+		out.println("Value of the variable is: " + data);
 	%>
 </body>
 </html>
