@@ -8,8 +8,8 @@
 </head>
 <body>
 	<%! String makeItLower(String data){
-		return data.toLowerCase(); }
-	%>
+		return data.toLowerCase(); 
+	}%>
 	
 	<%
 		out.println(makeItLower("Hello World"));
